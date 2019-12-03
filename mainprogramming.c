@@ -1,8 +1,8 @@
-/*This program shows the way of breaking up programs in three files and compiling them together to produce complete results
+/*This program shows the way of writing up programs in three files and compiling them together to produce complete results
 The files are:
-mainprogramming.c --> The main running file
-function.c --> The support file
-headerfile.h --> The header file for stats
+mainprogramming.c 
+function.c 
+headerfile.h 
 The CMD command that we used here is
 gcc mainprogramming.c function.c headerfile.h -o main
 will create a main.exe file to run the program
